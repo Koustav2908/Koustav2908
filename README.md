@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Koustav Chatterjee</h1>
+<h3 align="center">A passionate learner who is interested in Web Development and Artificial Intelligence.</h3>
 
-<!--
-**Koustav2908/Koustav2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   🔭 I’m currently working at **Celebal Technologies** as a Data Science intern. (June 2025 - Present)
 
-Here are some ideas to get you started:
+-   👯 I’m really curious and passionate about **Web Development or AI Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   👨‍💻 My projects are stacked at [Koustav2908](https://github.com/Koustav2908?tab=repositories)
+
+-   📫 Reach me **koustav2908@gmail.com**
+
+-   📄 Know about myself and my experiences [Resume](https://drive.google.com/file/d/16mdTdn_Cdpat5sPXSRCabkZwTJfL-am4/view?usp=drivesdk)
+
+<h3 align="left">My most used languages: </h3>
+
+<img align="center" src="github_languages_pie.png" alt="GitHub Languages Pie Chart" width="400"/>
