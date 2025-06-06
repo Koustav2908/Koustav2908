@@ -13,4 +13,4 @@
 
 <h3 align="left">My most used languages: </h3>
 
-<img align="center" src="github_languages_pie.png" alt="GitHub Languages Pie Chart" width="400"/>
+<img align="center" src="github_languages_pie.png" alt="GitHub Languages Pie Chart"/>
