@@ -59,6 +59,6 @@ Here are a few things I’ve built:
 ### 💬 Let’s Connect!
 
 <p>
-  <a href="www.linkedin.com/in/koustav-chatterjee-b67ba9250" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Koustav%20Chatterjee-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/koustav-chatterjee-b67ba9250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Koustav%20Chatterjee-blue?logo=linkedin" /></a>
   <a href="mailto:koustav2908@gmail.com"><img src="https://img.shields.io/badge/Email-koustav2908%40gmail.com-red?logo=gmail" /></a>
 </p>
