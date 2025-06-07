@@ -40,7 +40,7 @@
 <h3 align="left"> 📊 Most used languages: </h3>
 
 <p align="center">
-<img src="github_languages_pie.png" alt="Top Languages" width="400" />
+<img src="languages.png" alt="Top Languages" width="400" />
 </p>
 
 ---
@@ -49,10 +49,10 @@
 
 Here are a few things I’ve built:
 
--   🧭 **Wanderlust** – An AirBnb type website using HTML, CSS, JavaScript
+-   🧭 **Wanderlust** – An AirBnb type website using MongoDB, Express, EJS, Node.js
 -   🌿 **Plant Disease Detection** – CNN-based image classifier
 
-👉 See all projects: [Koustav2908 Repositories](https://github.com/Koustav2908?tab=repositories)
+👉 See all my projects: [Repositories](https://github.com/Koustav2908?tab=repositories)
 
 ---
 
