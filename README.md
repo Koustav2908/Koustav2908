@@ -18,6 +18,8 @@
 
 -   🧠 Fun Fact: I love building projects that solve real-world problems
 
+-   🧩 You can find me on Leetcode [here](https://leetcode.com/u/Koustav_29/)
+
 ---
 
 ### 🧠 Tech Stack
