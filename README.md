@@ -25,7 +25,7 @@
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,c,mysql,html,css,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,c,mysql,html,css,git,github,linux,vscode,typescript,flask" />
 </p>
 
 ---
@@ -33,8 +33,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koustav2908&show_icons=true&theme=tokyonight" alt="GitHub stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koustav2908&theme=tokyonight" alt="GitHub streak" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Koustav2908&show_icons=true&theme=jolly" alt="GitHub stats" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koustav2908&theme=jolly" alt="GitHub streak" width="47%" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 <h3 align="left"> 📊 Most used languages: </h3>
 
 <p align="center">
-<img src="languages.png" alt="Top Languages" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav2908&exclude_repo=titanic-dataset-analysis&layout=compact&theme=jolly" alt="Most used languages" width="47%" />
 </p>
 
 ---
