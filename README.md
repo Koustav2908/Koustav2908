@@ -42,7 +42,7 @@
 <h3 align="left"> 📊 Most used languages: </h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav2908&exclude_repo=titanic-dataset-analysis&layout=compact&theme=jolly" alt="Most used languages" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav2908&exclude_repo=anomaly-detection,heart-disease-eda,titanic-dataset-analysis&layout=compact&theme=jolly" alt="Most used languages" width="47%" />
 </p>
 
 ---
