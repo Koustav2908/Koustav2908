@@ -10,7 +10,7 @@
 
 -   🔭 I’m currently working at **Celebal Technologies** as a Data Science intern. (June 2025 - Present)
 
--   👯 I’m really curious and passionate about **Web Development** and **AI** Projects
+-   👯 I’m really curious and passionate about **Web Development** and **Artificial Intelligence** Projects
 
 -   📫 Reach me **koustav2908@gmail.com**
 
