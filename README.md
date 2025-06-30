@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koustav Chatterjee</h1>
-<h3 align="center">A passionate learner who is interested in Web Development and Artificial Intelligence.</h3>
+<h3 align="center">A passionate learner interested in Web Development and Artificial Intelligence.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Koustav2908&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,7 +10,7 @@
 
 -   🔭 I’m currently working at **Celebal Technologies** as a Data Science intern. (June 2025 - Present)
 
--   👯 I’m really curious and passionate about **Web Development or AI Projects**
+-   👯 I’m really curious and passionate about **Web Development** and **AI** Projects
 
 -   📫 Reach me **koustav2908@gmail.com**
 
